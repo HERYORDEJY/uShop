@@ -1,0 +1,13 @@
+{
+  "name": "uShop",
+  "displayName": "uShop",
+  "expo": {
+    "name": "uShop",
+    "slug": "uShop",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "assets": ["./src/assets/fonts", "./src/assets/images" ]
+  }
+}
